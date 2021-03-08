@@ -1,0 +1,26 @@
+{
+  "name": "sushiswap-types",
+  "version": "0.0.0",
+  "description": "exported typechain types - 2021.03.07",
+  "types": "src/",
+  "files": [
+    "src/"
+  ],
+  "scripts": {
+    "build": "npx tsc -b",
+    "build:clean": "rm -rf lib/ && npx tsc -b"
+  },
+  "author": "SEE CONTRIBUTORS",
+  "license": "MIT",
+  "dependencies": {
+    "@types/bn.js": "^5.1.0",
+    "@types/node": "^12.12.54",
+    "bignumber.js": "^9.0.1",
+    "ethereum-types": "^3.4.0",
+    "ethers": "^5.0.31"
+  },
+  "devDependencies": {
+    "typedoc": "0.19.1",
+    "typescript": "^3.8.2"
+  }
+}
