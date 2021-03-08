@@ -1,6 +1,6 @@
 {
   "name": "sushiswap-types",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "exported typechain types - 2021.03.07",
   "types": "src/",
   "files": [
