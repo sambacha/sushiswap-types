@@ -1,10 +1,10 @@
 {
   "name": "sushiswap-types",
-  "version": "0.0.1",
-  "description": "exported typechain types - 2021.03.07",
-  "types": "src/",
+  "version": "0.0.2",
+  "description": "exported typechain types - 2021.03.29",
+  "types": "lib/index.d.ts",
   "files": [
-    "src/"
+    "lib/"
   ],
   "scripts": {
     "build": "npx tsc -b",
