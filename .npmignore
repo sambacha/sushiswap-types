@@ -1,0 +1,6 @@
+#.npmignore
+src/
+.github/
+docs/
+typedoc.sh
+.nojekyll 
